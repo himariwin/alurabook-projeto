@@ -7,7 +7,7 @@ Um projeto construindo o tema Alura Book e deixando totalmente responsivo para M
 
 <div align= "center">
   <img src="https://user-images.githubusercontent.com/128253022/238100540-14c52f9b-6bc1-4dfb-b1a3-ade5e836ebfc.gif">
- <div>
+</div>
 - Aprendi a utilizar keyframes no CSS para conseguir customizar o `hover`, gostei muito do resultado final.
 Aprendi e fixei muita coisa que não tinha conhecimento!
    
